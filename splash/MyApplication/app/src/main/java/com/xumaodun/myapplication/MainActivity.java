@@ -24,4 +24,8 @@ public class MainActivity extends AppCompatActivity {
         mIntent = new Intent(this, SplashTwoActivity.class);
         startActivity(mIntent);
     }
+    public void splashThree(View view){
+        mIntent = new Intent(this, SplashThreeActivity.class);
+        startActivity(mIntent);
+    }
 }

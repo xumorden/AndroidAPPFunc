@@ -10,8 +10,7 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity
-            android:name=".MainActivity">
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
@@ -19,10 +18,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:theme="@style/AppBaseTheme"
-            android:name=".SplashOneActivity">
+            android:name=".SplashOneActivity"
+            android:theme="@style/Appwelcome">
         </activity>
         <activity android:name=".SplashTwoActivity">
+        </activity>
+        <activity android:name=".WelcomeGuideActivity">
+        </activity>
+        <activity
+            android:theme="@style/ApTheme"
+            android:name=".SplashThreeActivity">
         </activity>
     </application>
 
