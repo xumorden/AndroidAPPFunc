@@ -19,4 +19,9 @@ public class MainActivity extends AppCompatActivity {
         mIntent = new Intent(this, SplashOneActivity.class);
         startActivity(mIntent);
     }
+
+    public void splashTwo(View view){
+        mIntent = new Intent(this, SplashTwoActivity.class);
+        startActivity(mIntent);
+    }
 }

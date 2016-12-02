@@ -11,5 +11,16 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="splashOne"
-        android:text="splash activity"/>
+        android:text="splashone activity"
+        android:id="@+id/button2"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="splashTwo"
+        android:text="splashTwo activity"
+        android:id="@+id/button"
+        android:layout_below="@+id/button2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
 </RelativeLayout>
