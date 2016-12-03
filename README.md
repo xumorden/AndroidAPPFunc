@@ -11,6 +11,9 @@
 ![](https://github.com/xumorden/AndroidAPPFunc/blob/master/GIFView/4.gif)<br>
 但是，你就喜欢APP启动效果炫酷，可以这样：<br>
 ![](https://github.com/xumorden/AndroidAPPFunc/blob/master/GIFView/5.gif)<br>
+这时你又需要添加引导蒙层，你可以选择如下：<br>
+![](https://github.com/xumorden/AndroidAPPFunc/blob/master/image/img1.png)<br>
+![](https://github.com/xumorden/AndroidAPPFunc/blob/master/image/img1.png)<br>
 最后，添加CircleIndicator，这是一个新库，效果如下：<br>
 ![](https://github.com/xumorden/AndroidAPPFunc/blob/master/GIFView/6.gif)<br>
 具体参考如下：<br>
