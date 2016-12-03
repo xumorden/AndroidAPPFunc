@@ -39,4 +39,9 @@ public class MainActivity extends AppCompatActivity {
         mIntent = new Intent(this, GuideViewActivity.class);
         startActivity(mIntent);
     }
+
+    public void circleIndicator(View view){
+        mIntent = new Intent(this, CircleIndicatorActivity.class);
+        startActivity(mIntent);
+    }
 }

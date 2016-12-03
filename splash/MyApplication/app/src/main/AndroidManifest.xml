@@ -41,6 +41,8 @@
         </activity>
         <activity android:name=".guideview.activity.ViewActivity">
         </activity>
+        <activity android:name=".CircleIndicatorActivity">
+        </activity>
     </application>
 
 </manifest>
