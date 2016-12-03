@@ -26,8 +26,11 @@
         <activity android:name=".WelcomeGuideActivity">
         </activity>
         <activity
-            android:theme="@style/ApTheme"
-            android:name=".SplashThreeActivity">
+            android:name=".SplashThreeActivity"
+            android:theme="@style/ApTheme">
+        </activity>
+        <activity
+            android:name=".SplashFourActivity">
         </activity>
     </application>
 
