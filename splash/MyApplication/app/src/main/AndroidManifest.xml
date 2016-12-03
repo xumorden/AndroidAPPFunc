@@ -29,8 +29,17 @@
             android:name=".SplashThreeActivity"
             android:theme="@style/ApTheme">
         </activity>
-        <activity
-            android:name=".SplashFourActivity">
+        <activity android:name=".SplashFourActivity">
+        </activity>
+        <activity android:name=".guideview.GuideViewActivity">
+        </activity>
+        <activity android:name=".guideview.activity.FullActivity">
+        </activity>
+        <activity android:name=".guideview.activity.FragActivity">
+        </activity>
+        <activity android:name=".guideview.activity.SimpleGuideViewActivity">
+        </activity>
+        <activity android:name=".guideview.activity.ViewActivity">
         </activity>
     </application>
 

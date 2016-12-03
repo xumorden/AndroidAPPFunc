@@ -1,9 +1,11 @@
 package com.xumaodun.myapplication;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+
+import com.xumaodun.myapplication.guideview.GuideViewActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -31,6 +33,10 @@ public class MainActivity extends AppCompatActivity {
 
     public void splashFour(View view){
         mIntent = new Intent(this, SplashFourActivity.class);
+        startActivity(mIntent);
+    }
+    public void guideView(View view){
+        mIntent = new Intent(this, GuideViewActivity.class);
         startActivity(mIntent);
     }
 }

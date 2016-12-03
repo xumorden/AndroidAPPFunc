@@ -43,4 +43,14 @@
         android:layout_below="@+id/button3"
         android:layout_alignRight="@+id/button3"
         android:layout_alignEnd="@+id/button3"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="guideView"
+        android:text="guideView    activity"
+        android:id="@+id/button5"
+        android:layout_below="@+id/button4"
+        android:layout_alignRight="@+id/button"
+        android:layout_alignEnd="@+id/button"/>
 </RelativeLayout>
