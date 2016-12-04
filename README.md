@@ -1,7 +1,9 @@
 # AndroidAPPFunc
 这是一个安卓开发APP遇到功能集合的仓库<br>
 * 如果你开发中遇到statusbar困扰，请[点击](https://github.com/xumorden/AndroidAPPFunc/blob/master/SystemBar/README.md)<br>
-## 第一个功能是APP开发引导页。
+效果图如下：<br>
+![](https://github.com/xumorden/AndroidAPPFunc/blob/master/image/bar4pic.jpg)<br>
+# 第一个功能是APP开发引导页。
 一般普通APP开发引导页效果如下：<br>
 ![](https://github.com/xumorden/AndroidAPPFunc/blob/master/GIFView/1.gif)<br>
 如果你想要APP启动的文艺一点，可以这样：<br>
