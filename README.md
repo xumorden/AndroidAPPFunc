@@ -1,5 +1,5 @@
 # AndroidAPPFunc
-这是一个安卓开发APP遇到功能集合的仓库<br>
+这是一个安卓开发APP遇到功能集合的项目，包括引导页面，SystemBar，Dragger2等例子。<br>
 * 如果你开发中遇到statusbar困扰，请[点击](https://github.com/xumorden/AndroidAPPFunc/blob/master/SystemBar/README.md)<br>
 效果图如下：<br>
 ![](https://github.com/xumorden/AndroidAPPFunc/blob/master/image/bar4pic.jpg)<br>
